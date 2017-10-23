@@ -1,0 +1,28 @@
+Notes:
+
+Three ways of embedding CSS
+1)External-- making a styles.css file.
+2)Inline-- using in html tags.
+3)<style>-- writing a <style> tag inside the <head> tag.
+
+Advantages of External file:
+1)Can be used in different html files.
+
+Document Object Model:
+1)Structure by which the browser interprets the html file.
+2)Any object on DOM is called an element.
+3)Every element has two attributes :a) id b) class
+id is for an individual.
+class is for a group.
+
+Inline overrides <style> overrides External.
+
+Division of html pages:
+1)<div> :Divides html pages into blocks.
+2)<span> :Divides in part of lines.
+
+
+Display-->
+1)inline.
+2)inline-block.
+3)block.
